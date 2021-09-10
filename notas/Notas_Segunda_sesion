@@ -1,0 +1,44 @@
+# Notas
+
+pop.system76.com
+rufus.ie/es
+
+Virtual MAchine: es una computadora dentro de una computadora
+ORACLE VM VirtualBox
+- creamos una nueva virtual machine
+- 12 GB como mínimo para PopOs
+- instalamos PopOS a partir de la imagen de disco
+
+La mayoria de las distribuciones grandes puedes usarlas sin instalarlas
+- FireFox es opensource, se lleva muy bien con las distribuciones de linux
+- Chrome (chromium)
+
+antes de instalar el sistema operativo es preferible conectarte al wifi
+- elegimos el idioma
+- elegimos el idioma del teclado
+
+2 opciones:
+- instalacion virgen de popos: clean install (se borran todos los archivos en disco)
+- Custom: particion (correr linux a lado de windows, mac)
+- disk, administracion de discos -> reducir volumen (disco 0, (C:)) (12000 MB)
+  - seleccionamos la particion vacia
+  
+popos encripta chido (Drive Encryption)
+
+Linux esta inspirado en UNIX pero no es UNIX
+
+Aplicaciones: Popstore
+- Thunderbird mail
+package manager de linux (ctrl+alt+t)
+- actualizar el sistema: 
+- sudo apt get update 
+sudo (poderes de administrador) 
+apt (manejador de programa)
+- sudo apt get upgrade 
+
+en linux los programas estan en repositorios
+
+tecla windows + felcha te mueves entre ventanas
+
+
+
